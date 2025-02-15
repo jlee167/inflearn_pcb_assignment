@@ -1,0 +1,5 @@
+usb_serial/**/*.zip
+*auto_saved*
+*.bak
+*.lck
+fp-info-cache
