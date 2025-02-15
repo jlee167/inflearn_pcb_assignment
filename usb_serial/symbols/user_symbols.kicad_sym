@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "user_footprints:28-LD-SSOP"
 			(at 5.08 15.24 0)
 			(effects
 				(font
