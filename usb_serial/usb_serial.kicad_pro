@@ -480,7 +480,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "outputs/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -520,8 +520,20 @@
         },
         {
           "group_by": false,
-          "label": "Datasheet",
-          "name": "Datasheet",
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Part",
+          "name": "Part",
           "show": true
         },
         {
@@ -541,6 +553,12 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Datasheet",
+          "name": "Datasheet",
+          "show": false
         },
         {
           "group_by": false,
@@ -594,12 +612,6 @@
           "group_by": false,
           "label": "PARTREV",
           "name": "PARTREV",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Package",
-          "name": "Package",
           "show": false
         },
         {
