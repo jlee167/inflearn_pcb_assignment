@@ -3395,7 +3395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 226.06 102.87 0)
 			(effects
 				(font
@@ -3413,7 +3413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "RC0402JR-0710KL"
+		(property "Part" "0402WGF1001TCE"
 			(at 226.06 102.87 0)
 			(effects
 				(font
@@ -4677,7 +4677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 102.87 86.36 0)
 			(effects
 				(font
@@ -4695,7 +4695,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "RC0402JR-0710KL"
+		(property "Part" "0402WGF1001TCE"
 			(at 102.87 86.36 0)
 			(effects
 				(font
@@ -5005,7 +5005,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 254 102.87 0)
 			(effects
 				(font
@@ -5023,7 +5023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "RC0402JR-0710KL"
+		(property "Part" "0402WGF1001TCE"
 			(at 254 102.87 0)
 			(effects
 				(font
