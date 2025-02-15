@@ -481,7 +481,7 @@
       "idf": "",
       "netlist": "",
       "plot": "outputs/gerber/",
-      "pos_files": "",
+      "pos_files": "outputs/pnp/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -516,6 +516,12 @@
           "group_by": true,
           "label": "Value",
           "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
           "show": true
         },
         {
@@ -674,7 +680,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "outputs/schematics/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,

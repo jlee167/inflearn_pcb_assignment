@@ -1,0 +1,9 @@
+Designator,Comment,Footprint,LCSC
+C1,10n,Capacitor_SMD:C_0603_1608Metric,C57112
+C2,4.7u,Capacitor_SMD:C_0805_2012Metric,C1779
+"C3,C4",100n,Capacitor_SMD:C_0402_1005Metric,C133086
+"D1,D2,D3",LED,LED_SMD:LED_0805_2012Metric,C2899997
+J2,USB_B_Micro,Connector_USB:USB_Micro-B_Amphenol_10118194-0001LF_Horizontal,C132563
+J3,Conn_01x04_Pin,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,C5184785
+"R1,R2,R3",1k,Resistor_SMD:R_0402_1005Metric,C11702
+U1,FT232RL,user_footprints:28-LD-SSOP,C8690
