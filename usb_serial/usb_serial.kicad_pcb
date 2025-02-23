@@ -629,15 +629,15 @@
 			(pintype "passive")
 			(uuid "68bd5980-03ab-42ed-ba56-14cb206633cc")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10118194-0001LF_Horizontal.wrl"
+		(model "${KIPRJMOD}/steps/10118194-0001LF--3DModel-STEP-269445.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 -1 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -1858,7 +1858,7 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D1"
-			(at 2.6 0 360)
+			(at 2.6 0 0)
 			(layer "F.SilkS")
 			(uuid "eb0461cf-3332-46dd-aa64-20709523b7c5")
 			(effects
@@ -2395,7 +2395,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "f1e9b283-17af-4b27-8d07-e977e1eb5729")
 			(effects
@@ -2589,7 +2589,7 @@
 			(uuid "b62a00c5-5591-4222-b4b6-4807ba800597")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "17d5f75f-4e32-4873-a053-77bec63cc3dd")
 			(effects
