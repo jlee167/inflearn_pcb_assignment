@@ -127,6 +127,7 @@
 		(property "Value" "USB_B_Micro"
 			(at 0 5.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "01c61169-7651-4fbe-a457-954b72c5c6da")
 			(effects
 				(font
@@ -1093,6 +1094,7 @@
 		(property "Value" "100n"
 			(at 0 1.16 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7df19ad8-46ee-48f4-b73e-444cad1dfd9c")
 			(effects
 				(font
@@ -1345,6 +1347,7 @@
 		(property "Value" "LED"
 			(at 0 1.65 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b05210d2-51dc-45a0-b358-6d7f3a0dcebe")
 			(effects
 				(font
@@ -1619,6 +1622,7 @@
 		(property "Value" "100n"
 			(at 0 1.16 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "d2790b68-d8db-4995-bb90-be310b7af192")
 			(effects
 				(font
@@ -1871,6 +1875,7 @@
 		(property "Value" "LED"
 			(at 0 1.65 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ad970c29-6d64-47cc-99ec-aeeca4cd286f")
 			(effects
 				(font
@@ -2145,6 +2150,7 @@
 		(property "Value" "4.7u"
 			(at 0 1.68 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "df7936e9-e7cb-4cb6-a141-f8cb7a5ff544")
 			(effects
 				(font
@@ -2397,6 +2403,7 @@
 		(property "Value" "1k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f1e9b283-17af-4b27-8d07-e977e1eb5729")
 			(effects
 				(font
@@ -2649,6 +2656,7 @@
 		(property "Value" "1k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "aefe1435-c5d9-4efc-a470-375d66f75122")
 			(effects
 				(font
@@ -2901,6 +2909,7 @@
 		(property "Value" "LED"
 			(at 0 1.65 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "67c2d833-0023-442b-82a2-86baf800c3b0")
 			(effects
 				(font
@@ -3175,6 +3184,7 @@
 		(property "Value" "1k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "caa5745a-c19b-458f-9aaf-c09764022be3")
 			(effects
 				(font
@@ -3427,6 +3437,7 @@
 		(property "Value" "Conn_01x04_Pin"
 			(at 0 9.95 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "3d134cfb-99b2-40cc-a211-1535c9abd06d")
 			(effects
 				(font
@@ -3755,6 +3766,7 @@
 		(property "Value" "10n"
 			(at 0 1.43 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "373ea954-6d59-4485-bb7f-5404d73fba6c")
 			(effects
 				(font
@@ -4187,6 +4199,217 @@
 				)
 			)
 		)
+	)
+	(gr_text "Unit: mm"
+		(at 155.98 98.12 0)
+		(layer "F.Fab")
+		(uuid "a7325e9f-2222-4654-80b5-3413f2cae6e0")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "31996a16-c2bc-4cae-8cb3-6f084283c378")
+		(pts
+			(xy 130 90) (xy 130 60)
+		)
+		(height -2.83)
+		(gr_text "30.00"
+			(at 126.02 75 90)
+			(layer "F.Fab")
+			(uuid "31996a16-c2bc-4cae-8cb3-6f084283c378")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 2)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "3804b46f-ad5e-4eec-bb46-a2aacc50460f")
+		(pts
+			(xy 135.35 61.84) (xy 130 61.84)
+		)
+		(height 5.42)
+		(gr_text "5.35"
+			(at 132.675 55.27 0)
+			(layer "F.Fab")
+			(uuid "3804b46f-ad5e-4eec-bb46-a2aacc50460f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 2)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "6c472daa-57fb-4a88-9202-5e2bb7b494fe")
+		(pts
+			(xy 138.99 87.4) (xy 130 87.4)
+		)
+		(height -7.35)
+		(gr_text "8.99"
+			(at 141.25 94.81 0)
+			(layer "F.Fab")
+			(uuid "6c472daa-57fb-4a88-9202-5e2bb7b494fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 2)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 2)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "7875aad6-f7eb-4a29-8058-279f86b27c7b")
+		(pts
+			(xy 133.92 88.035) (xy 130 88.035)
+		)
+		(height -4.545)
+		(gr_text "3.92"
+			(at 136.31 92.57 0)
+			(layer "F.Fab")
+			(uuid "7875aad6-f7eb-4a29-8058-279f86b27c7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 2)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 2)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "8697a2e6-83b9-4f60-b000-7c955ad20ae4")
+		(pts
+			(xy 142.65 61.34) (xy 130 61.34)
+		)
+		(height 8.78)
+		(gr_text "12.65"
+			(at 136.325 51.41 0)
+			(layer "F.Fab")
+			(uuid "8697a2e6-83b9-4f60-b000-7c955ad20ae4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 2)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "b69db3d4-f9f3-490c-a54c-98c4397fc8b2")
+		(pts
+			(xy 130 90) (xy 148 90)
+		)
+		(height 8.45)
+		(gr_text "18.00"
+			(at 139 97.3 0)
+			(layer "F.Fab")
+			(uuid "b69db3d4-f9f3-490c-a54c-98c4397fc8b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 2)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 141.415 76.775)
