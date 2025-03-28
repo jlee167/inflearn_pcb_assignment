@@ -5715,7 +5715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "BOOMELE(Boom Precision Elec)"
 			(at 228.6 134.62 0)
 			(effects
 				(font
@@ -5733,7 +5733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "61300411121"
+		(property "Part" "2.54-1*4P反弯排针"
 			(at 228.6 134.62 0)
 			(effects
 				(font
@@ -5841,7 +5841,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5184785"
+		(property "LCSC" "C91552"
 			(at 228.6 134.62 0)
 			(effects
 				(font

@@ -4,6 +4,6 @@
 "C3,C4","100n","C133086","Samsung Electro-Mechanics","0402","CL05B104KP5NNNC","Capacitor_SMD:C_0402_1005Metric","2",""
 "D1,D2,D3","LED","C2899997","LS R976-NR-1-0-20-R18","0805","ams-OSRAM USA INC.","LED_SMD:LED_0805_2012Metric","3",""
 "J2","USB_B_Micro","C132563","Amphenol","-","10118194-0001LF","Connector_USB:USB_Micro-B_Amphenol_10118194-0001LF_Horizontal","1",""
-"J3","Conn_01x04_Pin","C5184785","Würth Elektronik","-","61300411121","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","1",""
+"J3","Conn_01x04_Pin","C91552","BOOMELE(Boom Precision Elec)","-","2.54-1*4P反弯排针","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","1",""
 "R1,R2,R3","1k","C11702","UNI-ROYAL(Uniroyal Elec)","0402","0402WGF1001TCE","Resistor_SMD:R_0402_1005Metric","3",""
 "U1","FT232RL","C8690","FTDI","SSOP-28","FT232RL","user_footprints:28-LD-SSOP","1",""
